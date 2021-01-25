@@ -6,7 +6,7 @@ const Nav: React.FC = () => {
     <StyledNav>
       <StyledLink
         target="_blank"
-        href=""
+        href="https://etherscan.io/address/0x23F7bE5A23c55286C1f8729a55b2eC612D51eC10#code"
       >
         MasterChef Contract
       </StyledLink>
