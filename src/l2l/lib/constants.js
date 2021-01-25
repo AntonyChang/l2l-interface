@@ -51,7 +51,7 @@ export const supportedPools = [
       1: '0x98c3CF2806068e2f7B7b8CCf40a9F6214c886821',
     },
     name: 'L2l Party!',
-    symbol: 'L2L-V2-ETH SLP',
+    symbol: 'L2L-ETH L2L-V2',
     tokenSymbol: 'L2L',
     icon: '💰',
   }
