@@ -66,9 +66,9 @@ const StakeXL2l: React.FC = () => {
           <StyledCardWrapper>
             <StyledInfo>
               ℹ️️ You will earn a portion of the swaps fees based on the amount
-              of xL2l held relative the weight of the staking. xL2l can be minted
-              by staking L2l. To redeem L2l staked plus swap fees convert xL2l
-              back to L2l. {totalSupply ? `There are currently ${getBalanceNumber(totalSupply)} xL2L in existence.` : '' }
+              of xL2L held relative the weight of the staking. xL2L can be minted
+              by staking L2L. To redeem L2l staked plus swap fees convert xL2L
+              back to L2L. {totalSupply ? `There are currently ${getBalanceNumber(totalSupply)} xL2L in existence.` : '' }
             </StyledInfo>
           </StyledCardWrapper>
         </StyledCardsWrapper>

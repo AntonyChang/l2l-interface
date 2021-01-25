@@ -91,7 +91,7 @@ const Farm: React.FC = () => {
           target="__blank"
           href={`https://lite.l2lswap.fi/#/migrate`}
         >
-          UNI to SLP 1 Click Migration
+          UNI to L2L-V2 1 Click Migration
         </StyledLink>
       </StyledFarm>
     </>

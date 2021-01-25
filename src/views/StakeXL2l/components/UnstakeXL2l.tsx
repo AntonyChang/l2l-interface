@@ -42,7 +42,7 @@ const UnstakeXL2l: React.FC<HarvestProps> = ({lpContract}) => {
           <StyledCardHeader>
             <CardIcon>💰</CardIcon>
             <Value value={getBalanceNumber(xL2lBalance)}/>
-            <Label text="xL2L (L2lBar) Available"/>
+            <Label text="xL2L (L2LBar) Available"/>
           </StyledCardHeader>
           <StyledCardActions>
             <Button

@@ -16,17 +16,20 @@ const Nav: React.FC = () => {
       >
         L2lSwap L2L-ETH
       </StyledLink> */}
-      <StyledLink target="_blank" href="">
-        Discord
+      <StyledLink target="_blank" href="https://facebook.com/2local2">
+        Facebook
       </StyledLink>
-      <StyledLink target="_blank" href="">
+      <StyledLink target="_blank" href="https://github.com/2local/Token/tree/master">
         Github
       </StyledLink>
-      <StyledLink target="_blank" href="">
+      <StyledLink target="_blank" href="https://twitter.com/2local1">
         Twitter
       </StyledLink>
-      <StyledLink target="_blank" href="">
-        Medium
+      <StyledLink target="_blank" href="https://vk.com/2local">
+       VK
+      </StyledLink>
+      <StyledLink target="_blank" href="https://reddit.com/r/2local_1">
+       Reddit
       </StyledLink>
     </StyledNav>
   )
